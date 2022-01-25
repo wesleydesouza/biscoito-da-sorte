@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/biscoito-da-sorte/static/css/main.073c9b0a.css",
-    "main.js": "/biscoito-da-sorte/static/js/main.0446fec0.js",
-    "static/js/787.33b917f2.chunk.js": "/biscoito-da-sorte/static/js/787.33b917f2.chunk.js",
-    "static/media/logo.svg": "/biscoito-da-sorte/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/biscoito-da-sorte/static/css/main.a553002a.css",
+    "main.js": "/biscoito-da-sorte/static/js/main.383ca9ac.js",
+    "static/media/biscoito.png": "/biscoito-da-sorte/static/media/biscoito.10574f4adcfea1c07e1c.png",
     "index.html": "/biscoito-da-sorte/index.html",
-    "main.073c9b0a.css.map": "/biscoito-da-sorte/static/css/main.073c9b0a.css.map",
-    "main.0446fec0.js.map": "/biscoito-da-sorte/static/js/main.0446fec0.js.map",
-    "787.33b917f2.chunk.js.map": "/biscoito-da-sorte/static/js/787.33b917f2.chunk.js.map"
+    "main.a553002a.css.map": "/biscoito-da-sorte/static/css/main.a553002a.css.map",
+    "main.383ca9ac.js.map": "/biscoito-da-sorte/static/js/main.383ca9ac.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.0446fec0.js"
+    "static/css/main.a553002a.css",
+    "static/js/main.383ca9ac.js"
   ]
 }
